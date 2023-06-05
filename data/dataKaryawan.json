@@ -1,0 +1,14 @@
+[
+    {
+        "nama": "Ashabil",
+        "nik": "001",
+        "email": "ashabilsyauqi@gmail.com",
+        "noTelp": "087871976694",
+        "jenisKelamin": "PRIA",
+        "posisi": "Manager",
+        "gajiPokok": "10,000,000",
+        "pajak": 0.08,
+        "besarPajak": "800,000",
+        "absen": 1
+    }
+]
